@@ -21,7 +21,7 @@ Accidentally published a WordPress post too early once too often, instead of sav
 Once a post has been published, the confirmation dialogue will not appear anymore for that post.
 
 
-= Custom message
+= Custom message =
 
 The message text can be changed any time:
 
@@ -35,38 +35,32 @@ add_filter(
 ?>`
 
 
-= Memory usage
+= Memory usage =
 
 * On backend: 0,02 MB
 * On frontend: 0,01 MB
 
 
-= Available languages
+= Available languages =
 
 * English
 * Deutsch
 
 
-= Requirements
-
-* WordPress 3.9
-* PHP 5.2.4
-
-
-= Authors
+= Authors =
 
 * [Sergej Müller](http://wpcoder.de)
 * [Caspar Hübinger](http://glueckpress.com)
 
 
-= Donuts
+= Donuts =
 
 * [Gittip](https://www.gittip.com/sergejmueller/)
 * [Flattr](https://flattr.com/submit/auto?user_id=sergej.mueller&url=https%3A%2F%2Fgithub.com%2Fsergejmueller%2FPublish-Confirm)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6)
 
 
-= Profiles
+= Profiles =
 
 * [Google+](https://plus.google.com/110569673423509816572?rel=author)
 * [Twitter](https://twitter.com/wpSEO)
