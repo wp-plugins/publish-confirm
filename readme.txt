@@ -70,6 +70,11 @@ add_filter(
 
 == Changelog ==
 
+= 0.0.4 =
+
+* Publish confirmation for post drafts
+
+
 = 0.0.3 =
 
 * *Publish Confirm* goes wordpress.org

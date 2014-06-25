@@ -19,7 +19,7 @@ class Publish_Confirm
     * Prepares the JS code integration
     *
     * @since   0.0.3
-    * @change  0.0.3
+    * @change  0.0.4
     *
     * @hook    array  publish_confirm_message
     */
@@ -28,6 +28,11 @@ class Publish_Confirm
     {
         /* Check user role */
         if ( ! current_user_can('publish_posts') ) {
+            return;
+        }
+
+        /* Filter published posts */
+        if ( get_post()->post_status === 'publish' ) {
             return;
         }
 

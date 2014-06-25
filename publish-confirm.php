@@ -8,7 +8,7 @@ Author: Sergej M&uuml;ller
 Author URI: http://wpcoder.de
 Plugin URI: http://wordpress.org/plugins/publish-confirm/
 License: GPLv2 or later
-Version: 0.0.3
+Version: 0.0.4
 */
 
 /*
@@ -50,6 +50,13 @@ if ( is_admin() ) {
 
     add_action(
         'admin_footer-post-new.php',
+        array(
+            'Publish_Confirm',
+            'inject_js'
+        )
+    );
+    add_action(
+        'admin_footer-post.php',
         array(
             'Publish_Confirm',
             'inject_js'
