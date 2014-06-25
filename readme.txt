@@ -34,8 +34,8 @@ add_filter(
 
 
 = Memory usage =
-* On backend: 0,02 MB
-* On frontend: 0,01 MB
+* On backend: ~0,02 MB
+* On frontend: ~0,01 MB
 
 
 = Available languages =
