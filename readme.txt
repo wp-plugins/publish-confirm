@@ -1,9 +1,9 @@
 === Publish Confirm ===
 Contributors: sergej.mueller
-Tags: publish, posts, confirmation
+Tags: publish, posts, confirm, confirmation, dialogue
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6
 Requires at least: 3.9
-Tested up to: 3.9.1
+Tested up to: 3.9.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,8 +34,8 @@ add_filter(
 
 
 = Memory usage =
-* On backend: ~0,02 MB
-* On frontend: ~0,01 MB
+* On backend: ~ 0,02 MB
+* On frontend: ~ 0,01 MB
 
 
 = Available languages =
@@ -49,13 +49,12 @@ add_filter(
 
 
 = Donuts =
-* [Gittip](https://www.gittip.com/sergejmueller/)
-* [Flattr](https://flattr.com/submit/auto?user_id=sergej.mueller&url=https%3A%2F%2Fgithub.com%2Fsergejmueller%2FPublish-Confirm)
+* [Flattr](https://flattr.com/thing/b5397007b62d7825f8c62e419cd3d906)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6)
 
 
 = Profiles =
-* [Google+](https://plus.google.com/110569673423509816572?rel=author)
+* [Google+](https://plus.google.com/+SergejMüller)
 * [Twitter](https://twitter.com/wpSEO)
 * [Impressum](http://wpcoder.de)
 
