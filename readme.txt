@@ -3,7 +3,7 @@ Contributors: sergej.mueller
 Tags: publish, posts, confirm, confirmation, dialogue
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6
 Requires at least: 3.9
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,7 +49,7 @@ add_filter(
 
 
 = Donuts =
-* [Flattr](https://flattr.com/thing/b5397007b62d7825f8c62e419cd3d906)
+* [Flattr](https://flattr.com/thing/536e5e2d0ce8de72eccc08731a4514e6)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6)
 
 
