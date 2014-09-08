@@ -70,7 +70,7 @@ class Publish_Confirm
     * Prints the JS code into the footer
     *
     * @since   0.0.3
-    * @change  0.0.3
+    * @change  0.0.5
     *
     * @param   string  $msg  JS confirm message
     */
@@ -83,7 +83,7 @@ class Publish_Confirm
                     $('#publish').on(
                         'click',
                         function(event) {
-                            if ( $('#original_publish').val() !== $(this).val() ) {
+                            if ( $(this).val() !== "<?php echo esc_js( __( 'Publish' ) ) ?>" ) {
                                 return;
                             }
                             if ( ! confirm("<?php echo $msg ?>") ) {

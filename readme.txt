@@ -62,6 +62,10 @@ add_filter(
 
 == Changelog ==
 
+= 0.0.5 =
+* No confirmation dialogue for scheduled posts
+
+
 = 0.0.4 =
 * Publish confirmation for post drafts
 
