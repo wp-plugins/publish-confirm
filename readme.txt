@@ -1,7 +1,7 @@
 === Publish Confirm ===
 Contributors: sergej.mueller
 Tags: publish, posts, confirm, confirmation, dialogue
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAQUT9RLPW8QN
 Requires at least: 3.9
 Tested up to: 4.0
 Stable tag: trunk
@@ -50,7 +50,7 @@ add_filter(
 
 = Donuts =
 * [Flattr](https://flattr.com/thing/536e5e2d0ce8de72eccc08731a4514e6)
-* [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RDDW9FEHGLG6)
+* [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAQUT9RLPW8QN)
 
 
 = Profiles =
