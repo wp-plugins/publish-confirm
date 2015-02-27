@@ -6,7 +6,7 @@ Domain Path: /lang
 Description: Extra confirmation dialogue for the publish button, avoids publishing accidentally.
 Author: Sergej M&uuml;ller
 Author URI: http://wpcoder.de
-Plugin URI: http://wordpress.org/plugins/publish-confirm/
+Plugin URI: https://wordpress.org/plugins/publish-confirm/
 License: GPLv2 or later
 Version: 0.0.5
 */
