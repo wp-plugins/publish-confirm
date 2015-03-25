@@ -62,7 +62,7 @@ class Publish_Confirm
         }
 
         /* Print javascript */
-        self::_print_js( esc_js($msg) );
+        self::_print_js($msg);
     }
 
 
@@ -83,10 +83,10 @@ class Publish_Confirm
                     $('#publish').on(
                         'click',
                         function(event) {
-                            if ( $(this).val() !== "<?php echo esc_js( __( 'Publish' ) ) ?>" ) {
+                            if ( $(this).val() !== <?php echo json_encode( __( 'Publish' ) ) ?> ) {
                                 return;
                             }
-                            if ( ! confirm("<?php echo $msg ?>") ) {
+                            if ( ! confirm(<?php echo json_encode($msg) ?>) ) {
                                 event.preventDefault();
                             }
                         }
