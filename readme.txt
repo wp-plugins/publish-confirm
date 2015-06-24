@@ -1,5 +1,5 @@
 === Publish Confirm ===
-Contributors: sergej.mueller
+Contributors: pluginkollektiv
 Tags: publish, posts, confirm, confirmation, dialogue
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAQUT9RLPW8QN
 Requires at least: 3.9
